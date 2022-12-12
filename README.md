@@ -6,7 +6,7 @@
 ### <div align="center">I'm João Pedro, a engineer student and developer</div>  
   
 
-- 🌱 I’m currently learning Java and React Native  
+- 🌱 I’m currently learning Python and React Native  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
@@ -61,10 +61,6 @@
 <br/>  
 
 
-
-### Now playing:
-  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22nzgebwf3muau7px7ht6j6qy&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
 
