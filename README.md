@@ -30,12 +30,6 @@
 
 <br/>  
 
-### My Skill Set  
-<div align="center">
-<table><tr><td valign="top" width="50%">
-
-
-
 <br/>  
 
 
