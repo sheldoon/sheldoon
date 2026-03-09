@@ -1,16 +1,6 @@
-<div align="center">
-<img src="https://miro.medium.com/max/720/1*jB76MLZjiNhGSQQvxm7LSQ.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm João Pedro, a engineer student and developer</div>  
-  
-
-- 🌱 I’m currently learning Python and React Native  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+### <div align="center">I am João Pedro, a control and automation engineer.</div>  
+ 
 
 <br/>  
 
